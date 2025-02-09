@@ -1,0 +1,29 @@
+{
+  "name": "finapp",
+  "version": "1.0.0",
+  "description": "this is a test node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmercel/finapp.git"
+  },
+  "keywords": [
+    "financial",
+    "app",
+    "quantitative",
+    "finance"
+  ],
+  "author": "Mercel Vubangsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmercel/finapp/issues"
+  },
+  "homepage": "https://github.com/vmercel/finapp#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
